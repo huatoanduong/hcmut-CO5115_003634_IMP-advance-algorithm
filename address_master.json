@@ -1,0 +1,910 @@
+{
+  "description": "Synthetic address master data; all street and ward labels are fictional.",
+  "levels": [
+    "street",
+    "ward",
+    "province"
+  ],
+  "records": [
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường An Bình",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường An Bình",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường An Bình",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Bắc Minh",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Bắc Minh",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Bắc Minh",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Cầu Mây",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Cầu Mây",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Cầu Mây",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Đông Sơn",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Đông Sơn",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Đông Sơn",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Hòa Lạc",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Hòa Lạc",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Hòa Lạc",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Kim Ngân",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Kim Ngân",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Kim Ngân",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Linh Đàm",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Linh Đàm",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Linh Đàm",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Minh Khai",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Minh Khai",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Minh Khai",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Nam Phong",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Nam Phong",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Nam Phong",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Phúc An",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Phúc An",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Phúc An",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Quang Trung",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Quang Trung",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Quang Trung",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Sông Nhuệ",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Sông Nhuệ",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Sông Nhuệ",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Tây Hồ Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Tây Hồ Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Tây Hồ Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Thanh Xuân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Thanh Xuân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Thanh Xuân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Trúc Bạch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Trúc Bạch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Trúc Bạch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Vạn Phúc Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Vạn Phúc Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Vạn Phúc Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Yên Hòa Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Yên Hòa Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Yên Hòa Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Xuân Đỉnh Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Xuân Đỉnh Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Xuân Đỉnh Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Ngọc Hà Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Ngọc Hà Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Ngọc Hà Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Việt Hưng Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Việt Hưng Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Việt Hưng Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Đại Kim Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Đại Kim Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Đại Kim Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Bồ Đề Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Bồ Đề Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Bồ Đề Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Định Công Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Định Công Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Định Công Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Mai Dịch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Mai Dịch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Mai Dịch Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Mỹ Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Mỹ Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Mỹ Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Tứ Liên Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Tứ Liên Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Tứ Liên Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Thượng Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Thượng Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Thượng Đình Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Trung Văn Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Trung Văn Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Trung Văn Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Nhật Tân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Nhật Tân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Nhật Tân Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Hà Đông Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Hà Đông Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Hà Đông Mới",
+      "province": "Thành phố Hà Nội"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường An Lạc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường An Lạc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường An Lạc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Bình An Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Bình An Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Bình An Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Cát Lái Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Cát Lái Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Cát Lái Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Đa Kao Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Đa Kao Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Đa Kao Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Hiệp Bình Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Hiệp Bình Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Hiệp Bình Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Linh Tây Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Linh Tây Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Linh Tây Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Long Phước Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Long Phước Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Long Phước Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Phú Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Phú Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Phú Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Tân Phong Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Tân Phong Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Tân Phong Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Tân Quy Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Tân Quy Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Tân Quy Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Thảo Điền Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Thảo Điền Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Thảo Điền Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Thạnh Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Thạnh Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Thạnh Mỹ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Trường Thọ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Trường Thọ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Trường Thọ Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Tăng Nhơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Tăng Nhơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Tăng Nhơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Bình Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Bình Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Bình Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Phước Long Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Phước Long Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Phước Long Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Hòa Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Hòa Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Hòa Hưng Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Bà Điểm Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Bà Điểm Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Bà Điểm Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Tân Tạo Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Tân Tạo Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Tân Tạo Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Vĩnh Lộc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Vĩnh Lộc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Vĩnh Lộc Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Cầu Kho Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Cầu Kho Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Cầu Kho Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Cầu Ông Lãnh Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Cầu Ông Lãnh Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Cầu Ông Lãnh Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Bến Nghé Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Bến Nghé Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Bến Nghé Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Chợ Lớn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Chợ Lớn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường Chợ Lớn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường Hạnh Thông Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường Hạnh Thông Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Hạnh Thông Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Tân Sơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Tân Sơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Tân Sơn Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Bình Trị Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Bình Trị Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Gió Nam",
+      "ward": "Phường Bình Trị Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hồ Sen",
+      "ward": "Phường An Phú Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Cầu Vồng",
+      "ward": "Phường An Phú Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Bình Minh",
+      "ward": "Phường An Phú Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sao Khuya",
+      "ward": "Phường Phú Thuận Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Lá Non",
+      "ward": "Phường Phú Thuận Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Hoa Phượng",
+      "ward": "Phường Phú Thuận Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Mây Trắng",
+      "ward": "Phường Nhà Bè Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Sông Xanh",
+      "ward": "Phường Nhà Bè Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    },
+    {
+      "street": "Đường Nắng Mai",
+      "ward": "Phường Nhà Bè Mới",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  ]
+}
